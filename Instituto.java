@@ -11,5 +11,8 @@ public class Instituto {
 		
 
 	}
+	
+	public static String info(String nombre,int codpostal) {return null;}
+	public static String metros(double altura, double ancho) {return null;}
 
 }
