@@ -7,4 +7,7 @@ public class Profesor {
 	public boolean casado;
 	public boolean embarazado;
 	
+	private static void parte(String nombre){}
+	private static void mandar(){}
+	
 }
